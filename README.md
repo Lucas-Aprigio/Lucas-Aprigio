@@ -1,7 +1,7 @@
 ##     Olá!!! Seja bem-vindo(a)! Eu sou o Lucas Aprigio! 👋
 
 - 🔭 Estou em busca de uma oportunidade de estágio em desenvolvimento back-end 🧐
-- 🌱 Estou aprendendo Python, .NET, Kotlin, Swift e SQL Server.   
+- 🌱 Estou aprendendo Python, .NET, Kotlin e SQL Server.   
 
 <div align="center">
   <a href="https://github.com/Lucas_Aprigio">
@@ -14,7 +14,6 @@
   <img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Lucas-DotNet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
   <img align="center" alt="Lucas-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain.svg">
-  <img align="center" alt="Lucas-Swift" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg">
   <img align="center" alt="Lucas-SQLServer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
   
 </div>
