@@ -1,6 +1,6 @@
-## Olá!!! Seja bem-vindo(a)! Eu sou o Lucas Aprigio 👋
+## Olá!!! Seja bem-vindo(a)! Eu sou o Lucas Aprigio! 👋
 
-- 🔭 Estou em busca uma oportunidade de estágio 🧐
+- 🔭 Estou em busca de uma oportunidade de estágio em desenvolvimento back-end 🧐
 - 🌱 Estou aprendendo Python, .NET, Kotlin, Swift e SQL Server.   
 
 <div align="center">
