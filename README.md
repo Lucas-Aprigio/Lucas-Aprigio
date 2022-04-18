@@ -1,6 +1,6 @@
 ##     Olá!!! Seja bem-vindo(a)! Eu sou o Lucas Aprigio! 👋
 
-- 🌱 Estou aprendendo Python, .NET, Kotlin e SQL Server.   
+- 🌱 Estou aprendendo Python, C#, .NET, JavaScript, Cloud (Azure), Docker, HTML e CSS.   
 
 <div align="center">
   <a href="https://github.com/Lucas_Aprigio">
