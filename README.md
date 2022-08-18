@@ -1,6 +1,6 @@
 ##     Olá!!! Seja bem-vindo(a)! Eu sou o Lucas Aprigio! 👋
 
-- 🌱 Estou sempre em busca de aprendizado e atualmente estou estudando Node.js, Cloud (Azure), Docker e Power Platform.   
+- 🌱 Estou sempre em busca de aprendizado e atualmente estou estudando C#, Node.js, Cloud (Azure) e Power Platform.   
 
 <div align="center">
   <a href="https://github.com/Lucas_Aprigio">
